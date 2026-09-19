@@ -11,7 +11,7 @@ st.set_page_config(
 st.title("⚾ 2026 MLB Player Explorer")
 
 st.write(
-    "Compare MLB players using batting and pitching statistics. "
+    "Compare MLB players using batting and pitching statistics from the 2026 regular season. "
     "Use the sidebar to filter by team, position, and playing time."
 )
 # Subheader
